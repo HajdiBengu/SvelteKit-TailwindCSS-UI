@@ -16,7 +16,7 @@
                     <input type="password" placeholder="Confirm Password" class="w-full input input-bordered" />
                 </div>
                 <div>
-                    <button class="btn btn-block">Sign Up</button>
+                    <button class="btn btn-block btn-primary">Sign Up</button>
                 </div>
                 <div class="mt-3">
                     <span>Already have an account ?
