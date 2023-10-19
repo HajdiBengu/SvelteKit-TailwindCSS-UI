@@ -5,13 +5,13 @@ export const themes = [
 	'Egypt',
 	'France',
 	'Germany',
+	'Greece',
 	'India',
-	'Ireland',
 	'Italy',
 	'Japan',
 	'Portugal',
 	'Russia',
+	'Spain',
 	'Turkey',
-	'UK',
-	'USA'
+	'UK'
 ];
