@@ -15,6 +15,6 @@
 
 <div class="absolute z-1 mr-10 grid grid-cols-1 gap-4 h-screen content-center inset-y-0 right-0 justify-items-end">
     {#each themes as theme}
-        <button class="badge" data-value={theme} on:click={setTheme}>{theme}</button>
+        <button class="badge badge-accent" data-value={theme} on:click={setTheme}>{theme}</button>
 	{/each}
 </div>
