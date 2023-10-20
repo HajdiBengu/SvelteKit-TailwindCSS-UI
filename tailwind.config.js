@@ -11,7 +11,7 @@ export default {
 				Australia: {
 					primary: '#0039a9',
 					secondary: '#88d1f1',
-					accent: '#ffff00',
+					accent: '#ffffff',
 					neutral: '#ffffff',
 					'base-100': '#ffffff',
 
@@ -35,8 +35,8 @@ export default {
 					neutral: '#B5EBF5',
 					'base-100': '#ffffff',
 
-					'--rounded-box': '1rem', // border radius rounded-box utility class, used in card and other large boxes
-					'--rounded-btn': '0.5rem', // border radius rounded-btn utility class, used in buttons and similar element
+					'--rounded-box': '2rem', // border radius rounded-box utility class, used in card and other large boxes
+					'--rounded-btn': '2rem', // border radius rounded-btn utility class, used in buttons and similar element
 					'--rounded-badge': '1.9rem', // border radius rounded-badge utility class, used in badges and similar
 					'--animation-btn': '0.25s', // duration of animation when you click on button
 					'--animation-input': '0.2s', // duration of animation for inputs like checkbox, toggle, radio, etc
@@ -56,7 +56,7 @@ export default {
 					'base-100': '#ffffff',
 
 					'--rounded-box': '1rem', // border radius rounded-box utility class, used in card and other large boxes
-					'--rounded-btn': '0.5rem', // border radius rounded-btn utility class, used in buttons and similar element
+					'--rounded-btn': '2rem', // border radius rounded-btn utility class, used in buttons and similar element
 					'--rounded-badge': '1.9rem', // border radius rounded-badge utility class, used in badges and similar
 					'--animation-btn': '0.25s', // duration of animation when you click on button
 					'--animation-input': '0.2s', // duration of animation for inputs like checkbox, toggle, radio, etc
@@ -136,7 +136,7 @@ export default {
 					'base-100': '#ffffff',
 
 					'--rounded-box': '1rem', // border radius rounded-box utility class, used in card and other large boxes
-					'--rounded-btn': '0.5rem', // border radius rounded-btn utility class, used in buttons and similar element
+					'--rounded-btn': '0rem', // border radius rounded-btn utility class, used in buttons and similar element
 					'--rounded-badge': '1.9rem', // border radius rounded-badge utility class, used in badges and similar
 					'--animation-btn': '0.25s', // duration of animation when you click on button
 					'--animation-input': '0.2s', // duration of animation for inputs like checkbox, toggle, radio, etc
@@ -156,7 +156,7 @@ export default {
 					'base-100': '#ffffff',
 
 					'--rounded-box': '1rem', // border radius rounded-box utility class, used in card and other large boxes
-					'--rounded-btn': '0.5rem', // border radius rounded-btn utility class, used in buttons and similar element
+					'--rounded-btn': '0.9rem', // border radius rounded-btn utility class, used in buttons and similar element
 					'--rounded-badge': '1.9rem', // border radius rounded-badge utility class, used in badges and similar
 					'--animation-btn': '0.25s', // duration of animation when you click on button
 					'--animation-input': '0.2s', // duration of animation for inputs like checkbox, toggle, radio, etc
@@ -176,7 +176,7 @@ export default {
 					'base-100': '#ffffff',
 
 					'--rounded-box': '1rem', // border radius rounded-box utility class, used in card and other large boxes
-					'--rounded-btn': '0.5rem', // border radius rounded-btn utility class, used in buttons and similar element
+					'--rounded-btn': '0.8rem', // border radius rounded-btn utility class, used in buttons and similar element
 					'--rounded-badge': '1.9rem', // border radius rounded-badge utility class, used in badges and similar
 					'--animation-btn': '0.25s', // duration of animation when you click on button
 					'--animation-input': '0.2s', // duration of animation for inputs like checkbox, toggle, radio, etc
@@ -196,7 +196,7 @@ export default {
 					'base-100': '#ffffff',
 
 					'--rounded-box': '1rem', // border radius rounded-box utility class, used in card and other large boxes
-					'--rounded-btn': '0.5rem', // border radius rounded-btn utility class, used in buttons and similar element
+					'--rounded-btn': '0.2rem', // border radius rounded-btn utility class, used in buttons and similar element
 					'--rounded-badge': '1.9rem', // border radius rounded-badge utility class, used in badges and similar
 					'--animation-btn': '0.25s', // duration of animation when you click on button
 					'--animation-input': '0.2s', // duration of animation for inputs like checkbox, toggle, radio, etc
@@ -216,7 +216,7 @@ export default {
 					'base-100': '#ffffff',
 
 					'--rounded-box': '1rem', // border radius rounded-box utility class, used in card and other large boxes
-					'--rounded-btn': '0.5rem', // border radius rounded-btn utility class, used in buttons and similar element
+					'--rounded-btn': '2rem', // border radius rounded-btn utility class, used in buttons and similar element
 					'--rounded-badge': '1.9rem', // border radius rounded-badge utility class, used in badges and similar
 					'--animation-btn': '0.25s', // duration of animation when you click on button
 					'--animation-input': '0.2s', // duration of animation for inputs like checkbox, toggle, radio, etc
@@ -236,7 +236,7 @@ export default {
 					'base-100': '#ffffff',
 
 					'--rounded-box': '1rem', // border radius rounded-box utility class, used in card and other large boxes
-					'--rounded-btn': '0.5rem', // border radius rounded-btn utility class, used in buttons and similar element
+					'--rounded-btn': '0.3rem', // border radius rounded-btn utility class, used in buttons and similar element
 					'--rounded-badge': '1.9rem', // border radius rounded-badge utility class, used in badges and similar
 					'--animation-btn': '0.25s', // duration of animation when you click on button
 					'--animation-input': '0.2s', // duration of animation for inputs like checkbox, toggle, radio, etc
@@ -276,7 +276,7 @@ export default {
 					'base-100': '#ffffff',
 
 					'--rounded-box': '1rem', // border radius rounded-box utility class, used in card and other large boxes
-					'--rounded-btn': '0.5rem', // border radius rounded-btn utility class, used in buttons and similar element
+					'--rounded-btn': '0.3rem', // border radius rounded-btn utility class, used in buttons and similar element
 					'--rounded-badge': '1.9rem', // border radius rounded-badge utility class, used in badges and similar
 					'--animation-btn': '0.25s', // duration of animation when you click on button
 					'--animation-input': '0.2s', // duration of animation for inputs like checkbox, toggle, radio, etc
@@ -296,7 +296,7 @@ export default {
 					'base-100': '#ffffff',
 
 					'--rounded-box': '1rem', // border radius rounded-box utility class, used in card and other large boxes
-					'--rounded-btn': '0.5rem', // border radius rounded-btn utility class, used in buttons and similar element
+					'--rounded-btn': '0rem', // border radius rounded-btn utility class, used in buttons and similar element
 					'--rounded-badge': '1.9rem', // border radius rounded-badge utility class, used in badges and similar
 					'--animation-btn': '0.25s', // duration of animation when you click on button
 					'--animation-input': '0.2s', // duration of animation for inputs like checkbox, toggle, radio, etc
